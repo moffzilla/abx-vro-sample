@@ -51,9 +51,9 @@ and then call my ABX Flow "Set VM and Tags Properties" workflow if that property
   
  ![detailsAction](https://github.com/moffzilla/abx-vro-sample/blob/master/media/subscriptionabx.png)
  
-Then if I instance my Blueprint and select "ABX"
+if I instance my Blueprint and select "ABX"
  
- ![detailsAction](https://github.com/moffzilla/abx-vro-sample/blob/master/media/subscriptionabx.png)
+ ![detailsAction](https://github.com/moffzilla/abx-vro-sample/blob/master/media/DeploymentInput.png)
  
 This will meet my subscription criteria and will execute the ABX "Set VM and Tags Properties" workflow and associated ABX Flows
  
