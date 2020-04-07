@@ -27,10 +27,7 @@ I have created the ABX "Set VM and Tags Properties" workflow
  
  You can see it calls two specific ABX Actions:
  
- "Set VM Tags", which it is a NodeJS based Script, 
- 
-  ![detailsAction](https://github.com/moffzilla/abx-vro-sample/blob/master/media/setvmtagesproflow.png)
- 
+"Set VM Tags", which it is a NodeJS based Script, 
 it will ingest two properties "metadata" & "tags" coming from vRA when we call this ABX Flow via a Subscription for the Event Topic: Compute Allocation 
  
  ![detailsAction](https://github.com/moffzilla/abx-vro-sample/blob/master/media/setvmtag.png)
